@@ -289,7 +289,7 @@ Please open an issue first to discuss what you would like to change.
 
 **Author**: conbobi  
 **GitHub**: [https://github.com/conbobi](https://github.com/conbobi)  
-**Email**: conbobi@gmail.com
+**Email**: tienzed2003@gmail.com
 
 ---
 
