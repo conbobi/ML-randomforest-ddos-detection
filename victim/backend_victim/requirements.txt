@@ -1,0 +1,23 @@
+# backend_victim/requirements.txt
+
+# Core
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# HTTP requests
+httpx==0.25.1
+aiohttp==3.9.1
+
+# System metrics
+psutil==5.9.6
+
+# CORS
+python-multipart==0.0.6
+
+# Logging
+python-json-logger==2.0.7
+
+# Environment
+python-dotenv==1.0.0

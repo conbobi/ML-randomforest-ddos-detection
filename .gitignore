@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+env/
+ENV/
+
+# Node
+node_modules/
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+*.log
+*.csv
+*.pkl
+attack_timestamps.txt
+live_state.json
+
+# Model
+model/*.pkl
+model/*.json
+
+# Env
+.env
